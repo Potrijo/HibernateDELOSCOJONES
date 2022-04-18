@@ -1,0 +1,25 @@
+package com.marc.HibernateAnotaciones01;
+import java.util.List;
+import org.hibernate.Session;
+import org.hibernate.SessionFactory;
+import org.hibernate.cfg.Configuration;
+import org.hibernate.query.Query;
+public class App
+{
+static SessionFactory sessionFactory = null;
+static Session session = null;
+
+public static void tearUp() {
+ sessionFactory = new Configuration().configure().buildSessionFactory();
+ session = sessionFactory.openSession();
+ }
+
+public static void tearDown() {
+ session.close();
+ }
+
+public static void comprobarSesion() {
+ if (session != null) {
+ System.out.println("Sesión abierta");
+ } else {
+ System.out.println("Fallo en la sesión"); 
