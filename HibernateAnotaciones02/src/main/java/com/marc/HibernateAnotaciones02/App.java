@@ -74,12 +74,12 @@ public class App
 	
 	public static void insertarAutoryLibro() {
 		 Transaction trans = session.beginTransaction();
-		 Autores autor = new Autores("FRAN", "Francisco García", null);
+		 Autores autor = new Autores("MARC", "Marc Contreras", null);
 		 session.save(autor);
 		 Set<Autores> autores = new HashSet<Autores>();
 		 autores.add(autor);
-		 Libros libro1 = new Libros(6, "Libro Fran1", autores);
-		 Libros libro2 = new Libros(7, "Libro Fran2", autores);
+		 Libros libro1 = new Libros(6, "Libro Marc1", autores);
+		 Libros libro2 = new Libros(7, "Libro Marc2", autores);
 		 session.save(libro1);
 		 session.save(libro2);
 		 trans.commit();
@@ -88,7 +88,8 @@ public class App
 	public static void main( String[] args )
 	{
 		tearUp();
-		LibrosAutorMMSinCampo();
+		insertarAutoryLibro();
+		//LibrosAutorMMSinCampo();
 		tearDown();
 	}
 }

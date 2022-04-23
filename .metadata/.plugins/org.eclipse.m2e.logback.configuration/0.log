@@ -1478,3 +1478,23 @@ org.eclipse.core.runtime.CoreException: Launch configuration App (2) references 
 2022-04-23 18:59:49,924 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marck\eclipse-HibernateConAnnotaciones\HibernateAnotaciones02\src\main\resources
 2022-04-23 18:59:49,925 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-04-23 18:59:49,926 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marck\eclipse-HibernateConAnnotaciones\HibernateAnotaciones02\src\test\resources
+2022-04-23 19:13:32,614 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-23 19:13:32,615 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marck\eclipse-HibernateConAnnotaciones\HibernateAnotaciones02\src\main\resources
+2022-04-23 19:13:32,616 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-23 19:13:32,617 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marck\eclipse-HibernateConAnnotaciones\HibernateAnotaciones02\src\test\resources
+2022-04-23 19:13:56,695 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-23 19:13:56,696 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marck\eclipse-HibernateConAnnotaciones\HibernateAnotaciones02\src\main\resources
+2022-04-23 19:13:56,698 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-23 19:13:56,698 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marck\eclipse-HibernateConAnnotaciones\HibernateAnotaciones02\src\test\resources
+2022-04-23 19:14:01,475 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-23 19:14:01,476 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marck\eclipse-HibernateConAnnotaciones\HibernateAnotaciones02\src\main\resources
+2022-04-23 19:14:01,478 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-23 19:14:01,479 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marck\eclipse-HibernateConAnnotaciones\HibernateAnotaciones02\src\test\resources
+2022-04-23 19:14:05,321 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-23 19:14:05,322 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marck\eclipse-HibernateConAnnotaciones\HibernateAnotaciones02\src\main\resources
+2022-04-23 19:14:05,324 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-23 19:14:05,324 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marck\eclipse-HibernateConAnnotaciones\HibernateAnotaciones02\src\test\resources
+2022-04-23 19:21:16,449 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-23 19:21:16,450 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marck\eclipse-HibernateConAnnotaciones\HibernateAnotaciones02\src\main\resources
+2022-04-23 19:21:16,452 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-23 19:21:16,453 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marck\eclipse-HibernateConAnnotaciones\HibernateAnotaciones02\src\test\resources
